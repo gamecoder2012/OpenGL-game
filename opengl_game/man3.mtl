@@ -1,0 +1,50 @@
+# Blender MTL File: 'None'
+# Material Count: 4
+
+newmtl smithbody
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.090000 0.090000 0.090000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 6hj9caiyuq-AgentSmith/smithbody.tga
+map_d 6hj9caiyuq-AgentSmith/smithbody.tga
+map_Ka 6hj9caiyuq-AgentSmith/smithbody.tga
+
+newmtl smithhead
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 6hj9caiyuq-AgentSmith/smithhead.tga
+map_d 6hj9caiyuq-AgentSmith/smithhead.tga
+map_Ka 6hj9caiyuq-AgentSmith/smithhead.tga
+
+newmtl smithshades
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 6hj9caiyuq-AgentSmith/smithhead.tga
+map_d 6hj9caiyuq-AgentSmith/smithhead.tga
+map_Ka 6hj9caiyuq-AgentSmith/smithhead.tga
+
+newmtl smithshoe
+Ns 7.843137
+Ka 0.000000 0.000000 0.000000
+Kd 0.470400 0.470400 0.470400
+Ks 0.090000 0.090000 0.090000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd 6hj9caiyuq-AgentSmith/smithshoe.tga
+map_d 6hj9caiyuq-AgentSmith/smithshoe.tga
+map_Ka 6hj9caiyuq-AgentSmith/smithshoe.tga
